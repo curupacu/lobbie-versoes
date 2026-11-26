@@ -1,11 +1,11 @@
 {
-  "version": "0.2.1",
-  "notes": "Teste da atualização automática.",
-  "pub_date": "2026-11-26T03:10:20.037Z",
+  "version": "0.3.0",
+  "notes": "Feed de atividade na aba Comunidade (sessões, jogo novo, primeira vez, marcos de 10 a 500 horas) e janela de Novidades a cada versão.",
+  "pub_date": "2026-11-26T04:06:02.108Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMDkzUnh3U2VlMjQ1cjlwSkRIbGhXYUlYVDVjdzVQeUJ2eXA5UGtJNE1WVUJNVkRuRW1YOHNpVkdZdXNqd1Q1dU0wbno0U29lSmNtZFl3bW9BTGhFQzB3Q2dReUlReXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjYyNjE4CWZpbGU6TG9iYmllXzAuMi4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMQpOVTR5L3M0K2diUGpSQkRPenZuV0NSYUVyRjZ0NDhjTFl1YnlLWks4Vi81Q2JxdzFoTVdHZm1ldjlCWnFLdFgxSlIvUzZNVkFGbDNFZ3dScWlka1VBUT09Cg==",
-      "url": "https://github.com/curupacu/lobbie-versoes/raw/main/Lobbie_0.2.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMDkzUnh3U2VlMjdPZWxhMkpreW9DMlZ3dlZSTzhpL20rTVVManQyeVpNSk1PT2tvRFIvQlZUTmtwMHNxWk43WGV1OHQ3c0lFRjczMXJ0SXpUMjhnTEZsSnU0WGIxbmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjY1OTYwCWZpbGU6TG9iYmllXzAuMy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMApoQ3hkeTk0YlpGczRleHlhcy94bmNtV25YYjBvL2NqY0dTakFSQ1o5clVweU1IOTBZREdxdUlaZXp1U0w2NnlnY0FIRTBTQWF5b2pmc0hkdkYwWXlDUT09Cg==",
+      "url": "https://github.com/curupacu/lobbie-versoes/raw/main/Lobbie_0.3.0_x64-setup.exe"
     }
   }
 }
