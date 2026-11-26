@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "notes": "Amigos online, chat e atualização automática.",
+  "pub_date": "2026-11-26T03:05:29.282Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMDkzUnh3U2VlMjl6QTJhWWhRMHJySXppazBpWGE0dXh4TEpVb3ZDM2NQMDZ6eWErbXdJS0R5SEdjd2EyL1NHdERVT25IVmlCM2xNODc0Q004UDR6OWY5OHplOEVlc3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjYyMzI4CWZpbGU6TG9iYmllXzAuMi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMApRVDZUK2pkZWhuQTQ5OXJSOXNzaWhpNG5tVW9kTzFKejZ4RXFCcGIrclE3aUt4RmpuSFVjNnhuS2dteU9sY3ZWTngwTkE0U01vRXJnYUVLYmlEZUREZz09Cg==",
+      "url": "https://github.com/curupacu/lobbie-versoes/raw/main/Lobbie_0.2.0_x64-setup.exe"
+    }
+  }
+}
