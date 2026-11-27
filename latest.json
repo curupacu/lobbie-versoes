@@ -1,11 +1,11 @@
 {
-  "version": "0.3.0",
-  "notes": "Feed de atividade na aba Comunidade (sessões, jogo novo, primeira vez, marcos de 10 a 500 horas) e janela de Novidades a cada versão.",
-  "pub_date": "2026-11-26T04:06:02.108Z",
+  "version": "0.4.0",
+  "notes": "Conquistas do Lobbie (por jogo e da conta, com aviso e feed), Procurar jogos no PC (Epic, GOG, pastas e ROMs) e RetroAchievements.",
+  "pub_date": "2026-11-27T05:55:55.021Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMDkzUnh3U2VlMjdPZWxhMkpreW9DMlZ3dlZSTzhpL20rTVVManQyeVpNSk1PT2tvRFIvQlZUTmtwMHNxWk43WGV1OHQ3c0lFRjczMXJ0SXpUMjhnTEZsSnU0WGIxbmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjY1OTYwCWZpbGU6TG9iYmllXzAuMy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMApoQ3hkeTk0YlpGczRleHlhcy94bmNtV25YYjBvL2NqY0dTakFSQ1o5clVweU1IOTBZREdxdUlaZXp1U0w2NnlnY0FIRTBTQWF5b2pmc0hkdkYwWXlDUT09Cg==",
-      "url": "https://github.com/curupacu/lobbie-versoes/raw/main/Lobbie_0.3.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMDkzUnh3U2VlMnpMeFlhaGRtQjNYSjdCWmRxempSdnpZdFFiVDBHWFF1MDEwV2s3eWNHOXlqenVJOEZFYm82OEZwclhuME00OHphK0Nrc2JTYzZFaUYrc3VHUE5oMXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzU4OTUyCWZpbGU6TG9iYmllXzAuNC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuMApVUWdwWkw1U0EzL2t6WUJWOVdhU1BEL21CNlh6Qm1kRysxeEhZTWZWNk1rSTFwZTA2Vk9RaVpPNVZkaTIvejRyT2JRL2VPeE9od2VHL1R1dUhMSjJCZz09Cg==",
+      "url": "https://github.com/curupacu/lobbie-versoes/raw/main/Lobbie_0.4.0_x64-setup.exe"
     }
   }
 }
