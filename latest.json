@@ -1,10 +1,10 @@
 {
   "version": "0.4.0",
   "notes": "Conquistas do Lobbie (por jogo e da conta, com aviso e feed), Procurar jogos no PC (Epic, GOG, pastas e ROMs) e RetroAchievements.",
-  "pub_date": "2026-11-27T05:55:55.021Z",
+  "pub_date": "2026-11-27T06:00:04.993Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMDkzUnh3U2VlMnpMeFlhaGRtQjNYSjdCWmRxempSdnpZdFFiVDBHWFF1MDEwV2s3eWNHOXlqenVJOEZFYm82OEZwclhuME00OHphK0Nrc2JTYzZFaUYrc3VHUE5oMXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzU4OTUyCWZpbGU6TG9iYmllXzAuNC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuMApVUWdwWkw1U0EzL2t6WUJWOVdhU1BEL21CNlh6Qm1kRysxeEhZTWZWNk1rSTFwZTA2Vk9RaVpPNVZkaTIvejRyT2JRL2VPeE9od2VHL1R1dUhMSjJCZz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMDkzUnh3U2VlMjN4SGFuTmtBWGczOGp5Q3AyTG9LUFZBUFBNaUtad0ZhMzBVRVoyd1VHeW1sUURuUGo3QjdHUGQySWUvOHIvbDQ0MDJ6VVpTR0tjNEZDWHRvdUJwVUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzU5MjAzCWZpbGU6TG9iYmllXzAuNC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuMApuSmV0dldjbkNHSHBGVzIwRTFEc2Fya3MyN0d1OXQyQ08xVHlWUEd6VU9NRFJMZ3RubHZxbGtROHBrQnltaEF4V2R3NlBIQ0dxOWJacmJrd2M2b0dDQT09Cg==",
       "url": "https://github.com/curupacu/lobbie-versoes/raw/main/Lobbie_0.4.0_x64-setup.exe"
     }
   }
